@@ -1,0 +1,8 @@
+[
+    // restart R session
+  {
+    "key": "cmd+shift+0",
+    "command": "r.restartR",
+    "when": "editorTextFocus || terminalFocus"
+  }
+]
